@@ -3,7 +3,7 @@
 A modern chatbot integration platform built with React, TypeScript, and Tailwind CSS. BeyondChats helps businesses easily set up and integrate AI-powered chatbots into their websites.
 
 ## 🚀 Live Demo
-[View Live Demo](https://beyondchats-demo.vercel.app)
+[View Live Demo](https://beyond-chats-seven.vercel.app/)
 
 ## ✨ Features
 

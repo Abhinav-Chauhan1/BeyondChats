@@ -59,7 +59,7 @@ A modern chatbot integration platform built with React, TypeScript, and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/beyondchats.git
+git clone https://github.com/Abhinav-Chauhan1/BeyondChats
 ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ cd beyondchats
 npm install
 ```
 
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
